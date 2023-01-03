@@ -20,4 +20,5 @@
 - 05 - вещественные числа;
 - 06 - вводятся слишком большие числа.
 
-[Screenshot_2](https://user-images.githubusercontent.com/76915977/210289012-34f3c144-7dcc-44c4-b5ed-2612dd918f00.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/76915977/210289058-968d0925-3775-46e0-abfc-80d0c2db013a.png)
